@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import { FaGithub } from "react-icons/fa";
 import { v4 as uuid } from "uuid";
 import { DragDropContext } from "react-beautiful-dnd";
 import List from "./List";
